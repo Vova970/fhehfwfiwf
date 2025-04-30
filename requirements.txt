@@ -1,5 +1,0 @@
-pytz
-asyncio
-sqlite3
-aiogram
-io
