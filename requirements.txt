@@ -1,1 +1,5 @@
-python-telegram-bot
+pytz
+asyncio
+sqlite3
+aiogram
+io
