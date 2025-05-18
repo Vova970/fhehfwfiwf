@@ -15,7 +15,7 @@ from telegram.ext import (
 )
 
 # Конфигурация бота
-TOKEN = '7707639176:AAEF14EhAPU-OFiBO5u6v8qSsagAMjIDpQk'
+TOKEN = '7412080065:AAGFF-h8r2REqDan8YKwFkH2vU41v1tYfz8'
 ADMIN_IDS = [8126533622]  # Сюда будут добавляться админы через команду /makeadmin
 
 # Инициализация базы данных
